@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-color: black;
+    /* background-: url('../pexels_videos.mp4'); */
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+    /* position: -webkit-sticky;
+    position:sticky; */
+}
+html, body { height: 100%; }
+/* body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; } */
